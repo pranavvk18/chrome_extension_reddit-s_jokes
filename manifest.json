@@ -1,0 +1,13 @@
+{
+    "name": "Redditt's Litt",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "image.png"
+    },
+    "icons": {
+        "148": "image.png"
+    },
+    "permissions": ["activeTab"]
+}
